@@ -7,7 +7,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js && next start -p $PORT"
+    "start": "node index.js -p $PORT"
   },
   "author": "Nivth",
   "dependencies": {
